@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bigger_number_game">Bigger Number Game!</string>
+    <string name="direction">Press the button of the larger number. If you get it right, you will earn a point! If you get it wrong, you\'ll lose a point.</string>
+    <string name="points">Points: 0</string>
+</resources>
